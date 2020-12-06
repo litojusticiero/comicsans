@@ -7,7 +7,9 @@ header{
     font-size: 150%;
 }
 h2{
-    font-size: 200%;
+    font-family: monospace;
+    font-size: 300%;
+    font-variant: small-caps;
 }
 span.sans{
     color: red;
